@@ -1,0 +1,22 @@
+#pragma once
+double interests[3][2] = {0,0,0,0,0,0};
+double disliked[1][2] = { 0,0 };
+double how_prestigious = 0;
+double hard_work = 0;
+double engineer_importance = 0;
+double master_importance = 0;
+double work_during =0;
+double work_after = 0;
+double salary = 0;
+double Scores[3] = {0,0,0};
+double AdvancedScores[8] = {0,0,0,0,0,0,0,0};
+int how_many_adv = 0;
+double threshold_membership = 0;
+double engineer_membership = 0;
+double master_membership = 0;
+double work_rate_membership = 0;
+double work_during_membership = 0;
+double work_after_membership = 0;
+double salary_membership = 0;
+double interests_membership = 0;
+double prestige_membership = 0;
